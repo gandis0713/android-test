@@ -8,7 +8,7 @@
         {
             "kind": "git",
             "repository": "https://github.com/gandis0713/vcpkg-registry",
-            "baseline": "c16b1ef9199e8a9fe1176b8d0ec8853a57b79c5e",
+            "baseline": "c17622da367400ecccdc7cf4a7e18194b9013256",
             "packages": [
                 "jipu"
             ]

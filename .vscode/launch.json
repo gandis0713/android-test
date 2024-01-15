@@ -1,0 +1,21 @@
+{
+    /* Ref
+        https://go.microsoft.com/fwlink/?linkid=830387
+        https://code.visualstudio.com/docs/editor/variables-reference
+    */
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "[arm64 osx] test",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${workspaceFolder}/build/arm64-osx-ninja/debug/dt-test",
+            "args": [],
+            "stopAtEntry": false,
+            "environment": [],
+            "cwd": "${workspaceFolder}",
+            "MIMode": "lldb",
+            "targetArchitecture": "arm64",
+        }
+    ]
+}
